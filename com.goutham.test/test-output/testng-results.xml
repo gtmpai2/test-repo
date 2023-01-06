@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-06T18:54:07 IST" name="Suite" finished-at="2023-01-06T18:54:07 IST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2023-01-06T18:54:07 IST" name="Test" finished-at="2023-01-06T18:54:07 IST" duration-ms="51">
+      <class name="com.goutham.test.NewTest">
+        <test-method signature="f()[pri:0, instance:com.goutham.test.NewTest@3bf9ce3e]" started-at="2023-01-06T18:54:07 IST" name="f" finished-at="2023-01-06T18:54:07 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="f1()[pri:0, instance:com.goutham.test.NewTest@3bf9ce3e]" started-at="2023-01-06T18:54:07 IST" name="f1" finished-at="2023-01-06T18:54:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method signature="f2()[pri:0, instance:com.goutham.test.NewTest@3bf9ce3e]" started-at="2023-01-06T18:54:07 IST" name="f2" finished-at="2023-01-06T18:54:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+      </class> <!-- com.goutham.test.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
